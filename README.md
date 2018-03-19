@@ -1,2 +1,3 @@
 # Hello-world
-from Hanna for the whole world
+from me for the whole world
+Hi. people!
